@@ -1,0 +1,1 @@
+![shema.png](homework%2Fimage%2Fshema.png)
